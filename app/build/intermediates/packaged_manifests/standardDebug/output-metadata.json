@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PACKAGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "com.argonaut.sjrm",
+  "variantName": "standardDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 13606,
+      "versionName": "1.3.6",
+      "outputFile": "AndroidManifest.xml"
+    }
+  ]
+}

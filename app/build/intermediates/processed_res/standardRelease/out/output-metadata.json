@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.argonaut.sjrm",
+  "variantName": "processStandardReleaseResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 13701,
+      "versionName": "1.3.7",
+      "outputFile": "resources-standardRelease.ap_"
+    }
+  ]
+}

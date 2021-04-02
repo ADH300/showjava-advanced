@@ -1,0 +1,2 @@
+com/argonaut/sjrm/BuildConfig.java
+ com.argonaut.sjrm.BuildConfig
