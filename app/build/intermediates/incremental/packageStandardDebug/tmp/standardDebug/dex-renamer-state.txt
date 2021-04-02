@@ -1,0 +1,7 @@
+#Fri Apr 02 08:20:31 IST 2021
+base.0=F\:\\show-java-development\\show-java-development\\app\\build\\intermediates\\dex\\standardDebug\\minifyStandardDebugWithR8\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\show-java-development\\show-java-development\\app\\build\\intermediates\\dex\\standardDebug\\minifyStandardDebugWithR8\\classes2.dex

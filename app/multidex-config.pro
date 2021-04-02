@@ -1,0 +1,7 @@
+-keep class com.argonaut.sjrm.MainApplication
+-keep class com.argonaut.sjrm.MainApplication { *; }
+-keep class com.argonaut.sjrm.utils.logging.* { *; }
+-keep class com.argonaut.sjrm.test.* { *; }
+-keep class androidx.test.* { *; }
+-keep class androidx.multidex.* { *; }
+-keep class kotlin.* { *; }

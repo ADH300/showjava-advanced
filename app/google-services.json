@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867733145850",
+    "project_id": "show-java-57bf1",
+    "storage_bucket": "show-java-57bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867733145850:android:6f8bafb5d793838ed66143",
+        "android_client_info": {
+          "package_name": "com.argonaut.sjrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867733145850-htbjjcg3ts6m52tse7ih7cjn7eqe3960.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIkj55ddZ4MW8Cf9eaISdSNdVozSMOw1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867733145850-htbjjcg3ts6m52tse7ih7cjn7eqe3960.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
